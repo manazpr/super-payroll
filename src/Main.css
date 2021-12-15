@@ -1,0 +1,16 @@
+.top {
+    margin-top: 1%;
+    margin-bottom: 2%;
+    text-align: center;
+}
+.title {
+    margin-left: 10%;
+    color: white;
+    font-size: 72;
+    text-align: center;
+}
+
+.editbutton {
+    background: #343261;
+border-radius: 11.477px;
+}

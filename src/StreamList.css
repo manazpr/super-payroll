@@ -1,0 +1,44 @@
+.streamList {
+    /* margin-left: 1%; */
+    margin-top: 3%;
+    background: linear-gradient(247.99deg, rgba(52, 49, 102, 0.17) 0%, rgba(41, 39, 84, 0.78) 48.89%, rgba(27, 25, 67, 0.71) 98.46%);
+    box-shadow: 28px 50px 90px rgba(23, 18, 43, 0.7);
+    backdrop-filter: blur(26.3971px);
+/* Note: backdrop-filter has minimal browser support */
+    border-radius: 11.477px;
+}
+
+.streamListTitle {
+    margin-left: 1%;
+    width: 20%;
+    padding: 1%;
+    margin-bottom: 0.5%;
+    margin-right: 1%;
+    mix-blend-mode: normal;
+    border: 1px solid #312F62;
+    box-sizing: border-box;
+    background: #343261;
+    border-radius: 11.477px;
+    color: #50E3C2;
+}
+
+.addStream {
+    width: 15%;
+    margin-bottom: 0.5%;
+    background: linear-gradient(136.67deg, #FF409A 8.34%, #C438EF 95.26%);
+    mix-blend-mode: normal;
+    opacity: 0.8;
+    box-shadow: 0px 4px 31px #BA1358;
+    border-radius: 12px;;
+    color: white;
+}
+
+.streams {
+    color: white;
+    border-color:#312f62a1;
+}
+
+.editbutton {
+    background: #343261;
+border-radius: 11.477px;
+}

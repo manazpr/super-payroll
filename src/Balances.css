@@ -1,0 +1,110 @@
+.balances {
+    display: grid;
+    align-items: flex-start;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background: linear-gradient(136.67deg, #FF409A 8.34%, #C438EF 95.26%);
+    padding: 1%;
+    color: rgb(31, 27, 27);
+    box-sizing: border-box;
+    border-radius: 10px;
+    
+}
+
+.displayBalances {
+    background: linear-gradient(247.99deg, rgba(52, 49, 102, 0.17) 0%, rgba(41, 39, 84, 0.78) 48.89%, rgba(27, 25, 67, 0.71) 98.46%);
+box-shadow: 28px 50px 90px rgba(23, 18, 43, 0.7);
+backdrop-filter: blur(26.3971px);
+/* Note: backdrop-filter has minimal browser support */
+
+border-radius: 11.477px;
+
+
+}
+
+.funding {
+    width: 70%;
+    height: 80%;
+    margin-left: 5%;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    padding-top: 6%;
+    background: linear-gradient(247.99deg, rgba(52, 49, 102, 0.17) 0%, rgba(41, 39, 84, 0.78) 48.89%, rgba(27, 25, 67, 0.71) 98.46%);
+    box-shadow: 28px 50px 90px rgba(23, 18, 43, 0.7);
+    backdrop-filter: blur(26.3971px);
+    border-radius: 11.477px;
+    display: grid;
+    align-items: flex-start;
+    color: #CACACA;
+    border: 1px solid #4D4D4D;
+    box-sizing: border-box;
+
+
+    
+;
+
+}
+
+.withdrawFunds {
+    width: 100%;
+    margin-top: 3%; 
+    padding: 2%;
+    background: #7F7FD5;
+    box-shadow: 0px 2px 5px 0px;
+    border-radius: 1%;
+    display: grid;
+    align-items: flex-start;
+    margin-top: 1%;
+    background: #282C31;
+    color: #CACACA;
+    border: 1px solid #4D4D4D;
+    box-sizing: border-box;
+    border-radius: 13px;
+
+    background: linear-gradient(247.99deg, rgba(52, 49, 102, 0.17) 0%, rgba(41, 39, 84, 0.78) 48.89%, rgba(27, 25, 67, 0.71) 98.46%);
+    box-shadow: 28px 50px 90px rgba(23, 18, 43, 0.7);
+    backdrop-filter: blur(26.3971px);
+    border-radius: 11.477px;
+
+}
+
+.addFunds {
+    width: 100%;
+    margin-top: 3%; 
+    padding: 2%;
+    background: #7F7FD5;
+    box-shadow: 0px 2px 5px 0px;
+    border-radius: 1%;
+    display: grid;
+    align-items: flex-start;
+    margin-top: 1%;
+    background: #282C31;
+    color: #CACACA;
+    border: 1px solid #4D4D4D;
+    box-sizing: border-box;
+    border-radius: 13px;
+
+    background: linear-gradient(247.99deg, rgba(52, 49, 102, 0.17) 0%, rgba(41, 39, 84, 0.78) 48.89%, rgba(27, 25, 67, 0.71) 98.46%);
+    box-shadow: 28px 50px 90px rgba(23, 18, 43, 0.7);
+    backdrop-filter: blur(26.3971px);
+    border-radius: 11.477px;
+}
+
+.addWithdrawButton {
+    background: linear-gradient(136.67deg, #FF409A 8.34%, #C438EF 95.26%);
+mix-blend-mode: normal;
+opacity: 0.8;
+box-shadow: 0px 4px 31px #BA1358;
+border-radius: 14px;
+    
+}
+
+.h5 {
+color:#202020;
+    
+}
+
+.h2 {
+    color:#fdfdfd;
+        
+    }

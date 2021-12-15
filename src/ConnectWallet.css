@@ -1,0 +1,14 @@
+.connectWallet {
+    position:absolute;
+    top:0;
+    right:0;
+    color: #FFFFFF;
+    padding: 5px;
+    margin-right: 5%;
+    margin-top: 1%;
+    background: linear-gradient(136.67deg, #FF409A 8.34%, #C438EF 95.26%);
+mix-blend-mode: normal;
+opacity: 0.8;
+box-shadow: 0px 4px 31px #BA1358;
+border-radius: 14px;
+}
