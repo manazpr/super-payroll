@@ -1,8 +1,6 @@
 import React, {Component} from "react";
 import Button from 'react-bootstrap/Button';
-import Spinner from 'react-bootstrap/Spinner';
-import BigNumber from "bignumber.js";
-import { calculateStream } from "./config";
+import { calculateStream } from "../config";
 
 class Stream extends Component {
     constructor(props) {

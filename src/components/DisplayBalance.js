@@ -1,6 +1,6 @@
 import React, {Component} from "react";
 import "./DisplayBalance.css";
-import { calculateStreamPerSecond } from "./config";
+import { calculateStreamPerSecond } from "../config";
 
 class DisplayBalance extends Component {
     constructor(props) {

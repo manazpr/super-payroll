@@ -1,8 +1,8 @@
 import BigNumber from "bignumber.js";
 
-
-export const fUSDC_address = "0xc94dd466416A7dFE166aB2cF916D3875C049EBB7";
 export const fUSDCx_address = "0x8aE68021f6170E5a766bE613cEA0d75236ECCa9a";
+export const fUSDC_address = "0xc94dd466416A7dFE166aB2cF916D3875C049EBB7";
+
 
 export function calculateFlowRate(amount) {
     let fr = amount / (86400 * 30)

@@ -1,6 +1,6 @@
 import React, {Component} from "react";
 import Button from 'react-bootstrap/Button';
-import "./ConnectWallet.css";
+import './ConnectWallet.css';
 
 class ConnectWallet extends Component {
     constructor(props) {

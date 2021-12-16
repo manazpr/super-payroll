@@ -4,7 +4,6 @@
     background: linear-gradient(247.99deg, rgba(52, 49, 102, 0.17) 0%, rgba(41, 39, 84, 0.78) 48.89%, rgba(27, 25, 67, 0.71) 98.46%);
     box-shadow: 28px 50px 90px rgba(23, 18, 43, 0.7);
     backdrop-filter: blur(26.3971px);
-/* Note: backdrop-filter has minimal browser support */
     border-radius: 11.477px;
 }
 
@@ -23,7 +22,7 @@
 }
 
 .addStream {
-    width: 15%;
+    width: 20%;
     margin-bottom: 0.5%;
     background: linear-gradient(136.67deg, #FF409A 8.34%, #C438EF 95.26%);
     mix-blend-mode: normal;
