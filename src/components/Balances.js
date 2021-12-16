@@ -32,7 +32,7 @@ class Balances extends Component {
             <Row>            
             
             <Col>
-            {this.props.fUSDCxBal == 0?
+            {this.props.fUSDCxBal === 0?
                 <Card className="balances">
                    <div >
                         <h5>SuperToken USDCx Balance </h5>
