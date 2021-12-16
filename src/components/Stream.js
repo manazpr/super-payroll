@@ -1,6 +1,7 @@
 import React, {Component} from "react";
 import Button from 'react-bootstrap/Button';
 import { calculateStream } from "../config";
+import "./StreamList.css";
 
 class Stream extends Component {
     constructor(props) {

@@ -1,5 +1,4 @@
 .streamList {
-    /* margin-left: 1%; */
     margin-top: 3%;
     background: linear-gradient(247.99deg, rgba(52, 49, 102, 0.17) 0%, rgba(41, 39, 84, 0.78) 48.89%, rgba(27, 25, 67, 0.71) 98.46%);
     box-shadow: 28px 50px 90px rgba(23, 18, 43, 0.7);
@@ -9,10 +8,10 @@
 
 .streamListTitle {
     margin-left: 1%;
-    width: 20%;
-    padding: 1%;
     margin-bottom: 0.5%;
     margin-right: 1%;
+    width: 20%;
+    padding: 1%;  
     mix-blend-mode: normal;
     border: 1px solid #312F62;
     box-sizing: border-box;
@@ -39,5 +38,13 @@
 
 .editbutton {
     background: #343261;
-border-radius: 11.477px;
+    border-radius: 11.477px;
 }
+
+.modal-content {
+    background: linear-gradient(210.96deg, rgba(36, 33, 81, 0.74) 0.01%, rgba(38, 35, 83, 0.78) 42.05%, rgba(28, 26, 64, 0.51) 104.81%);
+    box-shadow: -29px 60px 90px rgba(23, 18, 43, 0.55);
+    backdrop-filter: blur(25px);
+    border-radius: 11.3317px;
+    color: white;
+  }

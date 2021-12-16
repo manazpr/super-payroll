@@ -18,3 +18,8 @@ p {
   font-size: 20px;
   color: white;
 }
+
+a:hover {
+  background-color: rgb(201, 201, 201);
+  color: rgb(201, 201, 201);
+}
