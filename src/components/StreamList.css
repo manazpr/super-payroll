@@ -21,6 +21,24 @@
     color: #50E3C2;
 }
 
+.outflowNumber {
+    margin-bottom: 1%;
+    margin-top: 1%;
+    margin-right: 1%;
+    margin-left: 1%;
+    display: inline-block;
+    padding-top: 1%;  
+    padding-bottom: 1%;
+    padding-right: 5%;    
+    padding-left: 5%;
+    mix-blend-mode: normal;
+    border: 1px solid #312F62;
+    box-sizing: border-box;
+    background: #343261;
+    border-radius: 11.477px;
+    color: #e35550;
+}
+
 .addStream {
     margin-bottom: 1%;
     margin-top: 1%;
