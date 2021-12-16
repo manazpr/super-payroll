@@ -7,21 +7,20 @@ import { fUSDC_address } from "./config";
 import { fUSDCx_address } from "./config";
 import { fUSDCxabi } from "./abis/fUSDCxabi";
 import {ERC20abi} from "./abis/ERC20abi";
-import ConnectWallet from "./ConnectWallet";
+import ConnectWallet from "./components/ConnectWallet";
 import Container from "react-bootstrap/Container";
 import Row from "react-bootstrap/Row";
 import Col from "react-bootstrap/Col";
 import Card from "react-bootstrap/Card";
-import "./ConnectWallet.css";
-import Balances from "./Balances";
+import "./components/ConnectWallet.css";
+import Balances from "./components/Balances";
 import { calculateFlowRate } from "./config";
 import { calculateStream } from "./config";
 import { calculateEndDate } from "./config";
-import StreamList from "./StreamList";
-import CreateStream from "./CreateStream";
-import EditStream from "./EditStream";
+import StreamList from "./components/StreamList";
+import CreateStream from "./components/CreateStream";
+import EditStream from "./components/EditStream";
 import "./Main.css";
-import styled from "styled-components";
 
 
 class Main extends Component {
