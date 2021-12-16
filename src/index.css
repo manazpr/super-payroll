@@ -19,7 +19,9 @@ p {
   color: white;
 }
 
+a {
+  color: #FFF;
+}
 a:hover {
-  background-color: rgb(201, 201, 201);
-  color: rgb(201, 201, 201);
+   color: #FFF;
 }
