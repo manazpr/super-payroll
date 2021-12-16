@@ -2,7 +2,7 @@
     display: grid;
     align-items: flex-start;
     margin-top: 5%;
-    margin-bottom: 5%;
+    margin-bottom: 4%;
     background: linear-gradient(136.67deg, #FF409A 8.34%, #C438EF 95.26%);
     padding: 1%;
     color: rgb(31, 27, 27);
@@ -23,8 +23,8 @@ border-radius: 11.477px;
 }
 
 .funding {
-    width: 70%;
-    height: 80%;
+    width: 80%;
+    height: 70%;
     margin-left: 5%;
     margin-top: 5%;
     margin-bottom: 2%;
